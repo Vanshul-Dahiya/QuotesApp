@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable-v24/gradient_2.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable-v24/gradient_3.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable/brn_round_shape.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/drawable/wtsp_png_background.xml" value="0.2115" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/activity_all_shyri.xml" value="0.264" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/activity_start.xml" value="0.2" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/header_layout.xml" value="0.2" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/item_category.xml" value="0.16" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/layout/item_shayri.xml" value="0.536" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/menu/drawer_menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1725" />
+        <entry key="..\:/Users/vansh/AndroidStudioProjects/ShayariApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1725" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
